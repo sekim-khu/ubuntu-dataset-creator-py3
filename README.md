@@ -2,7 +2,7 @@
 Creating Ubuntu Dialogue Corpus v2.0 with python 3
 
 
-Original code for python 2 [here](https://github.com/rkadlec/ubuntu-ranking-dataset-creator/tree/master)  
+Original code for python 2 is [here](https://github.com/rkadlec/ubuntu-ranking-dataset-creator/tree/master)  
 This code is work on python 3 with multiprocessing.
 
 ## Run command:
